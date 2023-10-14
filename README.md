@@ -1,6 +1,6 @@
 # Interview Task
 
-Welcome to our coding challenge! This task is designed to assess your skills with React, TypeScript, Chakra UI, and Next.js. Please read the instructions carefully and reach out if you have any questions.
+Welcome to our coding challenge! This task is designed to assess your skills with React and Typescript. Please read the instructions carefully and reach out if you have any questions.
 
 ## Task Overview
 
@@ -32,7 +32,7 @@ Another button should have a counter displayed next to it. This counter should s
 
 ### 6. Button for Navigation:
 
-Yet another button should re-route users to another page within the app when clicked. You can choose any existing page or create a new one for this purpose. Use the `Link` component from Next.js for this navigation.
+Yet another button should re-route users to another page within the app when clicked. You can choose any existing page or create a new one for this purpose.
 
 ### 7. Image Inclusion:
 
@@ -48,7 +48,7 @@ Once you've completed the above tasks, commit and push your changes to your bran
 
 ## Resources and Assistance:
 
-You are free to use any resources you want to complete this challenge. If you need assistance with git commands, we have provided a `gitcheatsheet.md` file in the repository to help you out.
+You are free to use any resources you want to complete this challenge. If you need assistance with git commands, we have provided a `gitcheatsheet.md` file in the repository to help you out. Reffering to the [Chakra UI documentation](https://chakra-ui.com/getting-started) will also be of great help to you.
 
 ## Evaluation Criteria:
 
