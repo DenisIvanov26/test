@@ -4,7 +4,7 @@ Welcome to our coding challenge! This task is designed to assess your skills wit
 
 ## Task Overview
 
-You are tasked with creating a navigation menu with three buttons using Chakra UI in our Next.js app.
+You are tasked with creating a navigation menu with three buttons within the app. Please work on the problems to the best of your abilities and do not worry if you are unable to complete all points. 
 
 ### 1. Setup and Repository Cloning:
 
@@ -51,7 +51,7 @@ Feel free to use any styling or design choices that you think will enhance the u
 
 ### 9. Submission:
 
-Once you've completed the above tasks, commit and push your changes to your branch, then create a pull request against the main branch of this repository.
+Once you've completed the above tasks, commit and push your changes to your own branch, then create a pull request against the main branch of this repository. Please add a comment as part of your pull request with your Name, email, desired compensation. Provide a small paragraph describing your design choices and why you think you would be a good fit. Any general feedback on the assignment and/or interview process is greatly appreciated aswell.
 
 ## Resources and Assistance:
 
