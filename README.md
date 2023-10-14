@@ -12,6 +12,13 @@ You are tasked with creating a navigation menu with three buttons using Chakra U
 - Navigate to the project directory.
 - Create your branch using the format `yourname-feature`.
 - Install all the necessary dependencies to run the project.
+
+```bash
+npm install
+# and
+npm run dev
+```
+
 - Run the development server.
 
 ### 2. Create a Navigation Menu:
